@@ -1,0 +1,6 @@
+/home/labsuser/Downloads/apache-maven-3.8.2
+
+/usr/lib/jvm/java-11-openjdk-amd64
+
+/home/labsuser/jenkins/workspace/my_first_mavin_job/target
+
